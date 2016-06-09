@@ -1,0 +1,25 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 09 Jun 2016 14:06:17 at http://www.samomatky.cz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.samomatky.cz/ -O1 "D:\My Web Sites\samomatky" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:07:45	Warning: 	Moved Permanently for www.samomatky.cz/?p=13
+14:07:45	Warning: 	File has moved from www.samomatky.cz/?p=13 to http://www.samomatky.cz/?page_id=13
+14:07:45	Warning: 	Moved Permanently for www.samomatky.cz/?p=2
+14:07:45	Warning: 	File has moved from www.samomatky.cz/?p=2 to http://www.samomatky.cz/?page_id=2
+14:07:45	Warning: 	Moved Temporarily for www.samomatky.cz/wordpress/wp-admin/
+14:07:45	Warning: 	File has moved from www.samomatky.cz/wordpress/wp-admin/ to http://www.samomatky.cz/wp-login.php?redirect_to=http%3A%2F%2Fwww.samomatky.cz%2Fwordpress%2Fwp-admin%2F&reauth=1
+14:07:48	Warning: 	Moved Permanently for www.samomatky.cz/?p=56
+14:07:48	Warning: 	File has moved from www.samomatky.cz/?p=56 to http://www.samomatky.cz/?page_id=56
+14:07:48	Warning: 	Moved Permanently for www.samomatky.cz/?p=60
+14:07:48	Warning: 	File has moved from www.samomatky.cz/?p=60 to http://www.samomatky.cz/?page_id=60
+14:07:52	Warning: 	Moved Temporarily for www.samomatky.cz/wp-admin/
+14:07:52	Warning: 	File has moved from www.samomatky.cz/wp-admin/ to http://www.samomatky.cz/wp-login.php?redirect_to=http%3A%2F%2Fwww.samomatky.cz%2Fwp-admin%2F&reauth=1
+14:07:56	Error: 	"Not Found" (404) at link www.samomatky.cz/wordpress/wp-admin/&reauth=1 (from www.samomatky.cz/wp-login.php?redirect_to=http%3A%2F%2Fwww.samomatky.cz%2Fwordpress%2Fwp-admin%2F%26reauth=1)
+14:07:56	Error: 	"Bad Request" (400) at link www.samomatky.cz/wp-admin/&reauth=1 (from www.samomatky.cz/wp-login.php?redirect_to=http%3A%2F%2Fwww.samomatky.cz%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 39 seconds : 116 links scanned, 107 files written (1431893 bytes overall) [1471961 bytes received at 14868 bytes/sec]
+(2 errors, 12 warnings, 0 messages)
